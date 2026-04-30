@@ -70,6 +70,10 @@ streamlit run mainapp.py
 ##  Sample Output
 
 <img width="1920" height="1080" alt="Screenshot 2026-04-30 113114" src="https://github.com/user-attachments/assets/e1b0bd4d-ada4-4a5b-b18d-fb35db4c6e32" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-30 113132" src="https://github.com/user-attachments/assets/0f2e9db0-690f-4937-925f-ee968c890b9b" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-30 113143" src="https://github.com/user-attachments/assets/b49f0892-b8d2-4ac8-82e3-16e62b9176ff" />
+
+
 
 
 ## Use Cases
