@@ -12,7 +12,7 @@ This project combines **Computer Vision, NLP, and Audio Processing** into a sing
 
 ---
 
-## 🚀 Features
+##  Features
 
 *  Extract text from images using EasyOCR
 *  Translate text into multiple languages
