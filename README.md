@@ -1,6 +1,3 @@
-# VocalVision-AI
-Read • Translate • Speak from Images
-
 #  VocalVision AI
 
 ### Read • Translate • Speak from Images
