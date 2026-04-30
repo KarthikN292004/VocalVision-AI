@@ -95,5 +95,3 @@ streamlit run mainapp.py
 
 **Karthik N**
 
-
-Give it a star ⭐ on GitHub!
